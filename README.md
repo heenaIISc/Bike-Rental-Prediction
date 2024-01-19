@@ -1,1 +1,1 @@
-The Bike Rental Prediction project aims to develop a machine learning model that forecasts bike rental demand based on historical data and relevant features. By analyzing factors such as weather conditions, time of day, and day of the week, the model seeks to provide accurate predictions for bike rental companies, optimizing inventory management and enhancing customer satisfaction with timely and reliable service.
+
